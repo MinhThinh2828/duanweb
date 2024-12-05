@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/duanweb/static/css/main.7c542dfd.css",
+    "main.js": "/duanweb/static/js/main.5f31fd90.js",
+    "static/media/logo.jpeg": "/duanweb/static/media/logo.d5ca7949ec9992ba9462.jpeg",
+    "static/media/cafe Moka.jpg": "/duanweb/static/media/cafe Moka.4490987e4216801cbe02.jpg",
+    "static/media/cafe Arabica.jpg": "/duanweb/static/media/cafe Arabica.1ca536faccdb173b3852.jpg",
+    "static/media/cafe Robusta.jpg": "/duanweb/static/media/cafe Robusta.d0cd5b87f837cc574d65.jpg",
+    "static/media/cafe Cherri.jpg": "/duanweb/static/media/cafe Cherri.16120eafb2fbc09c4fd6.jpg",
+    "index.html": "/duanweb/index.html",
+    "main.7c542dfd.css.map": "/duanweb/static/css/main.7c542dfd.css.map",
+    "main.5f31fd90.js.map": "/duanweb/static/js/main.5f31fd90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c542dfd.css",
+    "static/js/main.5f31fd90.js"
+  ]
+}
